@@ -2,8 +2,8 @@ import streamlit as st
 
 st.set_page_config(page_title="Absensi Kelas X2", layout="wide")
 
-st.title("📋 Absensi Kelas X2 - SMAN 9 Bogor")
-st.write("Wali Kelas: **Ibu Sri Lestari Setyaningsih**")
+st.title("📋 Absensi Kelas XI 4 - SMAN 4 Madiun")
+st.write("Wali Kelas: **Bpk Zefanya Henkris Jonathan**")
 
 st.subheader("Form Absensi")
 
